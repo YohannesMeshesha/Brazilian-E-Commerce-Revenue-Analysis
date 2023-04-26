@@ -33,7 +33,7 @@ Now let's do some analysis using our MS SQL database.
 
 ![6](https://user-images.githubusercontent.com/131899006/234679763-e3201a62-d810-474f-923e-3dc9784e7ee0.png)
 
-#H1 The case scenarios covered in this project were visualized using Power BI.
+# H1 The case scenarios covered in this project were visualized using Power BI.
 
 ![PowerBIReport](https://user-images.githubusercontent.com/131899006/234679863-497274f9-e41a-4d41-a0b9-76c2757238a9.png)
 
